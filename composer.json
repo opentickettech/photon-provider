@@ -1,5 +1,5 @@
 {
-    "name": "geocoder-php/photon-provider",
+    "name": "opentickettech/photon-provider",
     "type": "library",
     "description": "Geocoder Photon adapter",
     "keywords": [],
